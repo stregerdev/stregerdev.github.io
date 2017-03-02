@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Cache Me Outside"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+name                     : "Joshua Streger"
+description              : "I barely know what I'm doing.'"
+url                      : https://stregerdev.github.io
+baseurl                  : 
+repository               : "stregerdev/stregerdev.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Joshua Streger"
+  avatar           : /assets/images/bio-photo.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I have no idea what I'm doing but it sure is fun."
+  location         : "New York, New York"
+  email            : jdstreger@gmail.com
   uri              :
   bitbucket        :
   codepen          :
@@ -89,14 +89,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "jdstregz"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "jstregz"
   lastfm           :
-  linkedin         :
+  linkedin         : "joshua-streger"
   pinterest        :
-  soundcloud       :
+  soundcloud       : "tabris-8"
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
@@ -244,3 +244,5 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# Collections

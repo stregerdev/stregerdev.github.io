@@ -1,4 +1,36 @@
 ---
-layout: home
-author_profile: true
+layout: splash
+permalink: /
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/computer.jpg
+  cta_label: "Cache me on LinkedIn"
+  cta_url: "https://www.linkedin.com/in/joshua-streger/"
+  caption:
+excerpt: "Hi. I'm Josh. Welcome to my tech blog."
+feature_row:
+  - image_path: /assets/images/ios.jpg
+    alt: "iOS Development"
+    title: "iOS Development"
+    excerpt: "Exploring and Teaching iOS from the bottom up."
+    url: "/year-archive/"
+    btn_label: "View Posts"
+  - image_path: /assets/images/code.jpg
+    alt: "security-dev"
+    title: "Cybersecurity"
+    excerpt: "Bug bounties, teaching exploits, and other security related tech."
+    url: "/"
+    btn_label: "Coming Soon"
+  - image_path: /assets/images/beach.jpg
+    alt: "adventures"
+    title: "Adventures"
+    excerpt: "My adventures with college, music, and everything else, no tech required."
+    url: "/"
+    btn_label: "Coming Soon"
+intro:
+  - excerpt: 'Check out my latest endeavors:'
 ---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
