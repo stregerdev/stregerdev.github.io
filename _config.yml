@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Joshua Streger"
   avatar           : /assets/images/bio-photo.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I have no idea what I'm doing but it sure is fun."
+  bio              : "I have no idea what I'm doing, but it sure is fun."
   location         : "New York, New York"
   email            : jdstreger@gmail.com
   uri              :
@@ -230,6 +230,13 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  ios:
+    output: true
+    permalink: /:collection/:path/
+  adventures:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -244,5 +251,24 @@ defaults:
       comments: # true
       share: true
       related: true
-
-# Collections
+  # _ios
+  - scope:
+      path: ""
+      type: ios 
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: # true
+      share: true
+      related: false
+  - scope:
+      path: ""
+      type: adventures
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: # true
+      share: false
+      related: false
