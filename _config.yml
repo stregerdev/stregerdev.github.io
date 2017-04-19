@@ -234,6 +234,9 @@ collections:
   ios:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permaling: /:collection/:path/
   adventures:
     output: true
     permalink: /:collection/:path/
@@ -261,6 +264,16 @@ defaults:
       read_time: false
       comments: # true
       share: true
+      related: false
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: # true
+      share: false
       related: false
   - scope:
       path: ""

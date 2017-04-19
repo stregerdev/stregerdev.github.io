@@ -4,5 +4,7 @@ main:
     url: /about/
   - title: "iOS Dev"
     url: /ios-dev/
+  - title: "Projects"
+    url: /projects/
   - title: "Other"
     url: /adventures/
