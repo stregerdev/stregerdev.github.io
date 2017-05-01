@@ -8,3 +8,56 @@ main:
     url: /projects/
   - title: "Other"
     url: /adventures/
+
+sidebar-mean:
+  - title: "Top of post"
+    url: /projects/2017-04-19-mean-crud/#
+  - title: "Beginning CRUD"
+    children:
+      - title: "Introduction"
+        url: /projects/2017-04-19-mean-crud/#1
+      - title: "MongoDB"
+        url: /projects/2017-04-19-mean-crud/#2
+      - title: "The Project Scheme"
+        url: /projects/2017-04-19-mean-crud/#3
+      - title: "NodeJS and Express"
+        url: /projects/2017-04-19-mean-crud/#4
+      - title: "Postman"
+        url: /projects/2017-04-19-mean-crud/#5
+      - title: "CRUD, Mongoose, and Routes"
+        url: /projects/2017-04-19-mean-crud/#6
+      - title: "Models"
+        url: /projects/2017-04-19-mean-crud/#7
+      - title: "Controllers"
+        url: /projects/2017-04-19-mean-crud/#8
+      - title: "Routes"
+        url: /projects/2017-04-19-mean-crud/#9
+  - title: "User Authentication"
+    children:
+      - title: "User Model"
+        url: /projects/2017-04-19-mean-crud/#10
+      - title: "Passport"
+        url: /projects/2017-04-19-mean-crud/#11
+      - title: "Authentication Routes"
+        url: /projects/2017-04-19-mean-crud/#12
+      - title: "Topic and User"
+        url: /projects/2017-04-19-mean-crud/#13
+      - title: "Comments"
+        url: /projects/2017-04-19-mean-crud/#14
+  - title: "The Frontend"
+    url: /projects/2017/04-19-mean-crud/#15
+    children:
+      - title: "Setup With Bower"
+        url: /projects/2017-04-19-mean-crud/#16
+      - title: "Serving Our Index"
+        url: /projects/2017-04-19-mean-crud/#17
+      - title: "The Views"
+        url: /projects/2017-04-19-mean-crud/#18
+      - title: "Angular Intro"
+        url: /projects/2017-04-19-mean-crud/#19
+      - title: "Authentication Service"
+        url: /projects/2017-04-19-mean-crud/#20
+      - title: "Authentication Controller"
+        url: /projects/2017-04-19-mean-crud/#21
+        
+
