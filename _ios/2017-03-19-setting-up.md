@@ -9,4 +9,8 @@ Before we can start getting into making iPhone applications, we need to register
 
 Go ahead to the [Apple Developer Site](https://developer.apple.com/). On the top bar you can explore the different portions of the site (Learn to Code, Software Downloads, etc). What we are looking for is to create an account. Go to account on the top right bar and sign in with your Apple ID.
 
-There will be a Terms of Service that you will have to agree to. After submitting you can then Join the Apple Developer Program. 
+That's pretty much it in order to get access to all of the download goodies on the Apple Developer Site. You can get beta's of new Xcodes (not entirely recommended), sample code, tutorials, etc.
+
+If you go to your account page you can sign up for the Apple Developer Program. More details about this will come later on in the course, but that is where you will be able to sign up and distribute your apps! Yay!
+
+## More To Come
