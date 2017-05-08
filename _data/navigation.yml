@@ -51,9 +51,9 @@ sidebar-mean:
         url: /projects/2017-04-19-mean-crud/#16
       - title: "Serving Our Index"
         url: /projects/2017-04-19-mean-crud/#17
-      - title: "The Views"
-        url: /projects/2017-04-19-mean-crud/#18
       - title: "Angular Intro"
+        url: /projects/2017-04-19-mean-crud/#18
+      - title: "The Views"
         url: /projects/2017-04-19-mean-crud/#19
       - title: "Authentication Service"
         url: /projects/2017-04-19-mean-crud/#20
@@ -61,3 +61,12 @@ sidebar-mean:
         url: /projects/2017-04-19-mean-crud/#21
         
 
+# To Do
+# - Intro DONE
+# - TextFields and Submit and Seques
+# - Scroll Views
+# - Stack Views
+# - Table Cell and App With Requests
+# - Core Data
+# - Rest API App
+# - Full Stack App
