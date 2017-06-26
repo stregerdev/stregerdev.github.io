@@ -1,10 +1,10 @@
----
+/---
 layout:
 title: "9 - REST API and iOS"
 excerpt: "CocoaPods, Alamofire, and a Beer Hug Part 1"
 tags:
     - ios
----
+/---
 [Source Code](https://github.com/jdstregz/BeerHug)
 
 Welcome, welcome. It's time to dive into some more advanced topics in ios. In the next couple lessons we are going to be building a pretty awesome application called Beer Hug. Beer Hug will be an app where you can look up any information for any brewery or beer and it will tell you virtually anything about it. Let's get started.

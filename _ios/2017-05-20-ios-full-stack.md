@@ -1,10 +1,10 @@
----
+/---
 layout:
 title: "10 - Full stack iOS"
 excerpt: "Firebase Authentication, Database, and Storage. Beer Hug Part 2"
 tags:
     - ios
---- 
+/--- 
 [Source Code](https://github.com/jdstregz/BeerHug)
 
 Hello and welcome to the last tutorial in this tutorial series (for now). I'd like to thank everyone for reading. This series has been a part of an independent study that I created for the University of Delaware. This will be the last tutorial for that series, but I hope to continue into more advanced and in depth ios topics later on. 
