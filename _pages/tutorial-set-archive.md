@@ -18,8 +18,8 @@ feature_row:
   - image_path: /assets/images/tutorial-sets/stacky.png
     title: "CRUD/MEAN Stack"
     excerpt: "Tutorials walking through the creation of a forum website, from back to front."
-    url: "#test-link"
-    btn_label: "Coming Soon"
+    url: "/mean-dev/"
+    btn_label: "View Set"
     btn_class: "btn"
   - image_path: /assets/images/tutorial-sets/python.jpg
     alt: "placeholder image 2"
@@ -38,15 +38,23 @@ feature_row2:
     btn_class: "btn"
   - image_path: /assets/images/tutorial-sets/docker.png
     alt: "placeholder image 2"
-    title: "13 Reasons Why Docker is Awesome"
+    title: "Docker Projects - Featuring Golang"
     excerpt: 'Tutorials on how to containerize and ship your app to the cloud'
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn"
   - image_path: /assets/images/tutorial-sets/reactjs.png
     alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
+    title: "React"
     excerpt: 'How to use React to cleanse your soul'
+    url: "#test-link"
+    btn_label: "Coming Soon"
+    btn_class: "btn"
+feature_row3:
+  - image_path: /assets/images/tutorial-sets/rubyonrails.png
+    alt: "ruby"
+    title: "Ruby + Ember + Postgres"
+    excerpt: 'Things are getting a little ambitious now'
     url: "#test-link"
     btn_label: "Coming Soon"
     btn_class: "btn"
@@ -58,3 +66,4 @@ feature_row2:
 
 {% include feature_row id="feature_row2" %}
 
+{% include feature_row id="feature_row3" %}

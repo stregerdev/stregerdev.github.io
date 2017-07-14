@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Let's Learn MEAN"
+permalink: /mean-dev/
+author_profile: true
+intro: 
+  - excerpt: "This is a tutorial series that will teach how to create a basic forum web application using MongoDB, Express, AngularJS, and NodeJS. Let's get MEAN"
+---
+{% include feature_row id="intro" type="center" %}
+{% for post in site.mean %}
+    {% include archive-single.html %}
+{% endfor %}
