@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Fun with Raspberry Pi"
+permalink: /pi-dev/
+author_profile: true
+intro: 
+  - excerpt: "This is a tutorial series that will follow my attempts to make fun home automation projects using the raspberry pi"
+---
+{% include feature_row id="intro" type="center" %}
+{% for post in site.mean %}
+    {% include archive-single.html %}
+{% endfor %}

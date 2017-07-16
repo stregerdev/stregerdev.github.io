@@ -51,11 +51,24 @@ feature_row2:
     btn_label: "Coming Soon"
     btn_class: "btn"
 feature_row3:
+  - image_path: /assets/images/tutorial-sets/reverse.png
+    alt: "reverse"
+    title: "Intro to Security Engineering"
+    excerpt: 'Reverse engineering, penetration testing, network security, etc.'
+    url: ""
+    btn_label: "Coming Soon"
+    btn_class: "btn"
   - image_path: /assets/images/tutorial-sets/rubyonrails.png
     alt: "ruby"
     title: "Ruby + Ember + Postgres"
     excerpt: 'Things are getting a little ambitious now'
     url: "#test-link"
+    btn_label: "Coming Soon"
+    btn_class: "btn"
+  - image_path: /assets/images/tutorial-sets/raspberry-pizzle.png
+    title: "Fun with Raspberry Pi"
+    excerpt: 'Mini projects with raspberry pi, mainly about home automation'
+    url: 'pi-dev'
     btn_label: "Coming Soon"
     btn_class: "btn"
 ---
