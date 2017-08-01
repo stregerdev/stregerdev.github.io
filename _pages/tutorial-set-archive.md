@@ -55,7 +55,7 @@ feature_row3:
     alt: "reverse"
     title: "Intro to Security Engineering"
     excerpt: 'Reverse engineering, penetration testing, network security, etc.'
-    url: ""
+    url: "security-dev"
     btn_label: "Coming Soon"
     btn_class: "btn"
   - image_path: /assets/images/tutorial-sets/rubyonrails.png
